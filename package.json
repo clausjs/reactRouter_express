@@ -10,7 +10,7 @@
   "author": "Joseph Claus",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "mongodb": "^3.3.2",
     "react": "^16.10.0",
